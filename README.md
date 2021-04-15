@@ -1,6 +1,6 @@
-# Udemy Courses offered by Risal
+# Udemy Courses offered by Risal - Links with Discounted Pricing
 
-Course Name | Course Links with Discounted Pricing (Try both links and choose the one with the lowest price) 
+Course Name | Course Links with Discounted Pricing <br />(PLEASE TRY BOTH LINKS AND CHOOSE THE ONE WITH THE LOWEST PRICE) 
 ----------- | --------------------------------------------------------------------------------------------
 Regular Expressions (Regex) for the Absolute Beginner! | [Link1](https://www.udemy.com/course/regular-expressions-regex-for-the-absolute-beginner/?couponCode=6F8D81F39BC7044FA084)    [Link2](https://www.udemy.com/course/regular-expressions-regex-for-the-absolute-beginner/?referralCode=2084FD070990DB00B4C8)
 Data Loss Prevention (DLP) and Regular Expressions (Regex)! | [Link1](https://www.udemy.com/course/data-loss-prevention-dlp-in-the-enterprise/?couponCode=501F528D8EEE4006D532)    [Link2](https://www.udemy.com/course/data-loss-prevention-dlp-in-the-enterprise/?referralCode=452A5AF28B9079FB2E7C)
