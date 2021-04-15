@@ -1,4 +1,4 @@
-# Currently Running Udemy Discount Codes for Courses offered by Risal
+# Udemy Courses offered by Risal
 
 Course Name | Course Links with Discounted Pricing (Try both links and choose the one with the lowest price) 
 ----------- | --------------------------------------------------------------------------------------------
