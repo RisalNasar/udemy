@@ -3,7 +3,7 @@
 Course Name | Course Links with Discounted Pricing - Please try both links and choose the one with the lowest price 
 ----------- | ------------------------------------------------------------------------------------------------------
 Regular Expressions (Regex) for the Absolute Beginner! | [Free](https://www.udemy.com/course/regular-expressions-regex-for-the-absolute-beginner/?referralCode=2084FD070990DB00B4C8)
-Data Loss Prevention (DLP) in the modern Enterprise! | [Link1](https://www.udemy.com/course/data-loss-prevention-dlp-in-the-enterprise/?referralCode=452A5AF28B9079FB2E7C) [Link2](https://www.udemy.com/course/data-loss-prevention-dlp-in-the-enterprise/?couponCode=MAY_2021)    
-AZ-500 Microsoft Azure Security Certification Practice Tests | [Link1](https://www.udemy.com/course/az-500-microsoft-azure-security-certification-practice-tests-latest/?referralCode=E5533D48ADFCB2A338A5) [Link2](https://www.udemy.com/course/az-500-microsoft-azure-security-certification-practice-tests-latest/?couponCode=MAY_2021)    
-Cyber Security and IT Risk Management – A Bird’s Eye View! | [Link1](https://www.udemy.com/course/cyber-security-and-it-risk-management-in-the-enterprise/?referralCode=623C85DD811E92E81FCC) [Link2](https://www.udemy.com/course/cyber-security-and-it-risk-management-in-the-enterprise/?couponCode=MAY_2021)    
+Data Loss Prevention (DLP) in the modern Enterprise! | [Link1](https://www.udemy.com/course/data-loss-prevention-dlp-in-the-enterprise/?referralCode=452A5AF28B9079FB2E7C)   
+AZ-500 Microsoft Azure Security Certification Practice Tests | [Link1](https://www.udemy.com/course/az-500-microsoft-azure-security-certification-practice-tests-latest/?referralCode=E5533D48ADFCB2A338A5)    
+Cyber Security and IT Risk Management – A Bird’s Eye View! | [Link1](https://www.udemy.com/course/cyber-security-and-it-risk-management-in-the-enterprise/?referralCode=623C85DD811E92E81FCC)    
 
